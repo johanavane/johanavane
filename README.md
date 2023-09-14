@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on **Front End** or **Full Stack** projects.
 
-🌱 Outside of coding, I love being out in nature. Whether that is going to the beach, hiking or traveling. I also spend my time reading, thrifting and running.
+🌱 Outside of coding, I love being out in nature. Whether that is going to the beach, hiking or traveling. I also spend my time thrifting, reading and doing pilates.
 
 ## 🛠 Skills
 ### Languages
@@ -16,6 +16,7 @@
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Design Tools
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
